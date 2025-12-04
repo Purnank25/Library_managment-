@@ -76,12 +76,3 @@ The project includes SQL queries for insights and analysis. These include:
 
 ---
 
-If you want, I can also generate:
-
-✅ A PDF version
-✅ A GitHub–ready README with badges
-✅ A more detailed ER diagram section
-✅ SQL table creation + query files
-
-Just tell me!
-# Library_managment-
